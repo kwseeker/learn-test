@@ -24,6 +24,8 @@
 
 ## 使用方法
 
+参考：https://github.com/openjdk/jmh `jmh-samples`。
+
 
 
 ## 实现原理
